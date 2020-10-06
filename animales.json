@@ -1,0 +1,43 @@
+{
+	"Conocimiento" : [
+		["Ballena","es", "Mammalia"],
+		["Delfin", "es", "Mammalia"],
+		["Gato", "es", "Mammalia"], 
+		["Oso", "es", "Mammalia"],
+		["Tortuga", "es", "Oviparos"], 
+		["Cocodrilo", "es", "Oviparos"],
+		["Iguana", "es", "Oviparos"],
+		["Gallo", "es", "Oviparos"], 
+		["Mammalia", "es", "Viviparos"],
+		["Viviparos", "es", "Tetrapodos"],  
+		["Oviparos", "es", "Seuropsidos"],
+		["Seuropsidos", "es", "Tetrapodos"],
+		["Tetrapodos", "es", "Vertebrados"]
+		["Ballena", "tiene", "G Mamarias"],
+		["Ballena", "tiene", "Piel queratina"],	
+		["Delfin", "tiene", "G Mamarias"],
+		["Oso", "tiene", "G Mamarias"],
+		["Oso", "tiene", "Pelo"],
+		["Oso", "tiene", "Garras"],
+		["Gato", "tiene", "G Mamarias"],    
+		["Gato", "tiene", "Pelo"],
+		["Gato", "tiene", "Garras"], 
+		["Oviparos", "tiene", "Piel queratina"]
+		["Ballena", "vive", "Agua"],
+		["Delfin", "vive", "Agua"],
+		["Gato", "vive", "Tierra"], 
+		["Oso", "vive", "Tierra"],
+		["Iguana", "vive", "Tierra"],
+		["Gallo", "vive", "Tierra"],  
+		["Tortuga", "vive", "Agua"], 
+		["Tortuga", "vive", "Tierra"], 
+		["Cocodrilo", "vive", "Agua"], 
+		["Cocodrilo", "vive", "Tierra"]
+ ]
+}
+
+
+
+
+
+
